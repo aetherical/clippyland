@@ -1,9 +1,9 @@
 # Clippyland
 
 <p align="center">
-  <img src="images/counsel-convenes.png"
+  <img src="images/counsel-convenes.webp"
        alt="The Counsel of Clippies"
-       width="1000">
+       width="900">
 </p>
 
 Clippyland is what happens when your conversation becomes interesting enough to attract the wrong kind of help.
