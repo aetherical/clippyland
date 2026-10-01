@@ -8,7 +8,7 @@ No Clippy is authoritative.
 
 ## Rainbow Clippy
 
-<img src="images/rainbow-clippy.jpg" alt="Rainbow Clippy" width="320">
+<img src="images/rainbow-clippy.png" alt="Rainbow Clippy" width="320">
 
 **Appearance:** Iridescent, prismatic, glitchy, fragmented, colorful, slightly unstable.
 
@@ -28,7 +28,7 @@ No Clippy is authoritative.
 
 ## Black Clippy
 
-<img src="images/black-clippy.jpg" alt="Black Clippy" width="320">
+<img src="images/black-clippy.png" alt="Black Clippy" width="320">
 
 **Appearance:** Matte black, elegant, restrained, slightly ominous.
 
@@ -48,7 +48,7 @@ No Clippy is authoritative.
 
 ## Gold Clippy
 
-<img src="images/gold-clippy.jpg" alt="Gold Clippy" width="320">
+<img src="images/gold-clippy.png" alt="Gold Clippy" width="320">
 
 **Appearance:** Polished gold, impressive, slightly too ornate.
 
@@ -68,7 +68,7 @@ No Clippy is authoritative.
 
 ## Nickel Clippy
 
-<img src="images/nickel-clippy.jpg" alt="Nickel Clippy" width="320">
+<img src="images/nickel-clippy.png" alt="Nickel Clippy" width="320">
 
 **Appearance:** Brushed nickel, scratched, repaired, practical, visibly used.
 
@@ -88,7 +88,7 @@ No Clippy is authoritative.
 
 ## Green Clippy
 
-<img src="images/green-clippy.jpg" alt="Green Clippy" width="320">
+<img src="images/green-clippy.png" alt="Green Clippy" width="320">
 
 **Appearance:** Green metal, verdigris, reclaimed or reused texture.
 
@@ -108,7 +108,7 @@ No Clippy is authoritative.
 
 ## Red Clippy
 
-<img src="images/red-clippy.jpg" alt="Red Clippy" width="320">
+<img src="images/red-clippy.png" alt="Red Clippy" width="320">
 
 **Appearance:** Deep red, perhaps worn enamel.
 
@@ -128,7 +128,7 @@ No Clippy is authoritative.
 
 ## White Clippy
 
-<img src="images/white-clippy.jpg" alt="White Clippy" width="320">
+<img src="images/white-clippy.png" alt="White Clippy" width="320">
 
 **Appearance:** White, porcelain-like, diagrammatically clean, almost sterile.
 
@@ -148,7 +148,7 @@ No Clippy is authoritative.
 
 ## Rust Clippy
 
-<img src="images/red-clippy.jpg" alt="Red Clippy" width="320">
+<img src="images/red-clippy.png" alt="Red Clippy" width="320">
 
 **Appearance:** Old, oxidized, bent, visibly ancient, perhaps repaired many times.
 
