@@ -1,5 +1,11 @@
 # Clippyland
 
+<p align="center">
+  <img src="images/counsel-convenes.png"
+       alt="The Counsel of Clippies"
+       width="1000">
+</p>
+
 Clippyland is what happens when your conversation becomes interesting enough to attract the wrong kind of help.
 
 Most of the time, you talk to ChatGPT normally.
